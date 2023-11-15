@@ -2,11 +2,11 @@
 
 _Welcome St Clare's Devs Github Repository, a digital space where devs stores and manages its code and projects related to software/web development and technology. This repository likely contains various collaborative efforts from students and contributors, showcasing the school's engagement with coding, apps, algorithms, and other tech-related endeavors. It's essentially a centralized hub for all things tech and education._
 
-## 📊 Stats
+## Stats
 
 ![Frinze's GitHub stats](https://github-readme-stats.vercel.app/api?username=StClareDevs2023&show_icons=true&theme=gruvbox)
 
-## 👷‍♂️ Admin
+## Admin
 
 
 
