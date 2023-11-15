@@ -1,4 +1,5 @@
-![st clare](https://github.com/StClareDevs2023/.github/assets/63950629/dd077d15-6662-4643-bb03-0b7c560fc5eb)
+![Untitled design](https://github.com/StClareDevs2023/.github/assets/63950629/c89c9ca1-4ff5-40d3-a83f-697eb00dc77a)
+
 ## 🏄 Hi! This is the St Clare's Devs Github Repository
 
 
