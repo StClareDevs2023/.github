@@ -4,20 +4,20 @@ _Welcome to St Clare's Devs Github Repository, a digital space where devs stores
 
 ##
 Recent Activities
-💻 Pushed 7 commits in the last week
-🌟 Starred repo: Fil-Naj/Leetcode
-ᛘ Forked repo: hakimel/reveal.js
-🌟 Starred repo: hakimel/reveal.js
-🌟 Starred repo: codersforcauses/p2s-v2
-🌟 Starred repo: carbon-app/carbon
-🌟 Starred repo: rome/tools
-⑂ Created branch rust-rebuild in repo: Drewbi/oberled
-⑂ Created branch master in repo: Drewbi/oberled-ui
-⑂ Created branch null in repo: Drewbi/oberled-ui
-⑂ Created branch master in repo: Drewbi/oberled-socket
-⑂ Created branch null in repo: Drewbi/oberled-socket
-🌟 Starred repo: brunoimbrizi/interactive-particles
-🌟 Starred repo: brunoimbrizi/vite-threejs
+- 💻 Pushed 7 commits in the last week
+- 🌟 Starred repo: Fil-Naj/Leetcode
+- ᛘ Forked repo: hakimel/reveal.js
+- 🌟 Starred repo: hakimel/reveal.js
+- 🌟 Starred repo: codersforcauses/p2s-v2
+- 🌟 Starred repo: carbon-app/carbon
+- 🌟 Starred repo: rome/tools
+- ⑂ Created branch rust-rebuild in repo: Drewbi/oberled
+- ⑂ Created branch master in repo: Drewbi/oberled-ui
+- ⑂ Created branch null in repo: Drewbi/oberled-ui
+- ⑂ Created branch master in repo: Drewbi/oberled-socket
+- ⑂ Created branch null in repo: Drewbi/oberled-socket
+- 🌟 Starred repo: brunoimbrizi/interactive-particles
+- 🌟 Starred repo: brunoimbrizi/vite-threejs
 ##
 
 
