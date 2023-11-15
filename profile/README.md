@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/StClareDevs2023/.github/assets/63950629/c89c9ca1-4ff5-40d3-a83f-697eb00dc77a)
+## ![Untitled design](https://github.com/StClareDevs2023/.github/assets/63950629/c89c9ca1-4ff5-40d3-a83f-697eb00dc77a)
 
 _Welcome St Clare's Devs Github Repository, a digital space where devs stores and manages its code and projects related to software/web development and technology. This repository likely contains various collaborative efforts from students and contributors, showcasing the school's engagement with coding, apps, algorithms, and other tech-related endeavors. It's essentially a centralized hub for all things tech and education._
 
