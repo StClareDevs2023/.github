@@ -1,4 +1,4 @@
-## Hi there 👋
+## St Clare Devs 
 
 ![coding](https://github.com/StClareDevs2023/.github/assets/63950629/c8a5f139-6d6c-4231-9657-79307cbf1499)
 
