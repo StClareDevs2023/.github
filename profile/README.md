@@ -6,9 +6,9 @@ _Welcome to St Clare's Devs Github Repository, a digital space where devs stores
 Recent Activities
 - 💻 Pushed 17 commits in the last week
 - 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite
+- ⑂ Created branch main in repo: StClareDevs2023/SE102-MediSpaWebsite
 - 🌟 Starred repo: StClareDevs2023/THESIS-InteractiveGames1.0
 - 🌟 Starred repo: StClareDevs2023/.git
-- ⑂ Created branch main in repo: StClareDevs2023/SE102-MediSpaWebsite
 - ⑂ Created branch master in repo: Drewbi/oberled-ui
 - ⑂ Created branch null in repo: Drewbi/oberled-ui
 - ⑂ Created branch master in repo: Drewbi/oberled-socket
