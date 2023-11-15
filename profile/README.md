@@ -5,13 +5,10 @@ _Welcome to St Clare's Devs Github Repository, a digital space where devs stores
 ##
 Recent Activities
 - 💻 Pushed 7 commits in the last week
-- 🌟 Starred repo: Fil-Naj/Leetcode
-- ᛘ Forked repo: hakimel/reveal.js
-- 🌟 Starred repo: hakimel/reveal.js
-- 🌟 Starred repo: codersforcauses/p2s-v2
-- 🌟 Starred repo: carbon-app/carbon
-- 🌟 Starred repo: rome/tools
-- ⑂ Created branch rust-rebuild in repo: Drewbi/oberled
+- 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite
+- 🌟 Starred repo: StClareDevs2023/THESIS-InteractiveGames1.0
+- 🌟 Starred repo: StClareDevs2023/.git
+- ⑂ Created branch main in repo: StClareDevs2023/SE102-MediSpaWebsite
 - ⑂ Created branch master in repo: Drewbi/oberled-ui
 - ⑂ Created branch null in repo: Drewbi/oberled-ui
 - ⑂ Created branch master in repo: Drewbi/oberled-socket
