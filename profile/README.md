@@ -5,16 +5,22 @@ _Welcome to St Clare's Devs Github Repository, a digital space where devs stores
 ##
 Recent Activities
 - 💻 Pushed 28 commits in the last week
-- 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite
 - ⑂ Created branch main in repo: StClareDevs2023/SE102-MediSpaWebsite
+- ⑂ Created branch main in repo: StClareDevs2023/THESIS-InteractiveGames1.0
+- 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite
 - 🌟 Starred repo: StClareDevs2023/THESIS-InteractiveGames1.0
+- ⑂ Created branch main in repo: StClareDevs2023/.git
 - 🌟 Starred repo: StClareDevs2023/.git
-- ⑂ Created branch master in repo: Drewbi/oberled-ui
-- ⑂ Created branch null in repo: Drewbi/oberled-ui
-- ⑂ Created branch master in repo: Drewbi/oberled-socket
-- ⑂ Created branch null in repo: Drewbi/oberled-socket
-- 🌟 Starred repo: brunoimbrizi/interactive-particles
-- 🌟 Starred repo: brunoimbrizi/vite-threejs
+- ⑂ Created branch HEADER in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch HOME in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch SERVICES in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch REVIEWS in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch ABOUT in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch BOOK-GUIDE in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch DISPATCH&LOCATION in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- ⑂ Created branch FOOTER in repo: StClareDevs2023/SE102-MediSpaWebsite/main
+- 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite/HOME
+- 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite/SERVICES
 ##
 
 
