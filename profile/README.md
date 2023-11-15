@@ -1,5 +1,6 @@
 ## 🏄 Hi! This is the St Clare's Devs Github Repository
 
+Welcome to the St. Clare's Devs GitHub Repository – the digital hub where St. Clare's School meets cutting-edge technology. Dive into a collection of innovative projects, crafted collaboratively by our students, educators, and contributors. From apps to algorithms, explore the dynamic intersection of education and technology. Join us in shaping the future at St. Clare's Devs – where code meets creativity!
 
 ## Gallery
 
