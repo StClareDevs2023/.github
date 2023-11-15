@@ -1,4 +1,4 @@
-## St Clare Devs 
+## Hi This is the St Clare's Devs Github Repository
 
 ![coding](https://github.com/StClareDevs2023/.github/assets/63950629/c8a5f139-6d6c-4231-9657-79307cbf1499)
 
