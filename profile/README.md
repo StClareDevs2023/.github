@@ -1,7 +1,7 @@
 ## 🏄 Hi! This is the St Clare's Devs Github Repository
 
 
-Gallery
+## Gallery
 
 ![368558376_868845381406292_489512318540356647_n](https://github.com/StClareDevs2023/.github/assets/63950629/047485a9-a9cb-479d-8c72-8f2b37fe0ba2)
 
