@@ -4,7 +4,7 @@ _Welcome St Clare's Devs Github Repository, a digital space where devs stores an
 
 ##
 
-![StClareDevs2023's GitHub stats](https://github-readme-stats.vercel.app/api?username=StClareDevs2023&show_icons=true&theme=gruvbox)
+
 
 ##
 
