@@ -1,0 +1,5 @@
+login,name,tfa_enabled,tfa_required_by,is_public,role,last_active,saml_name_id
+azurqo,,false,,true,Owner,2023-11-15 14:05:13 +0800,
+frinzeworkspace,Frinze Matabalan,true,,true,Owner,2023-11-16 11:29:59 +0800,
+JomarRicafranca,,false,,false,Owner,2023-10-25 12:52:48 +0800,
+MarkAnthonyOrtiz,Mark Anthony,false,,true,Member,2023-10-12 14:14:26 +0800,
