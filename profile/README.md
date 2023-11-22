@@ -5,7 +5,7 @@ _Welcome to St Clare's Devs Github Repository, a digital space where devs stores
 
 ##
 Recent Activities
-- 💻 Pushed 28 commits in the last week
+- 💻 Pushed 29 commits in the last week
 - ⑂ Created branch main in repo: StClareDevs2023/SE102-MediSpaWebsite
 - ⑂ Created branch main in repo: StClareDevs2023/THESIS-InteractiveGames1.0
 - 🌟 Starred repo: StClareDevs2023/SE102-MediSpaWebsite
