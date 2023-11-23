@@ -30,11 +30,13 @@ Recent Activities
 
 ![368558376_868845381406292_489512318540356647_n](https://github.com/StClareDevs2023/.github/assets/63950629/047485a9-a9cb-479d-8c72-8f2b37fe0ba2)
 
-![382418231_1002149534329745_1567676982317585254_n](https://github.com/StClareDevs2023/.github/assets/63950629/7e5e330b-93c0-4295-ba6e-4a96e7f7effd)
+
 
 ![ezgif-4-9f3452fce2](https://github.com/StClareDevs2023/.github/assets/63950629/6da8ddc5-42f5-44b7-9b2d-bfb370e708e5)
 
 
 
 ![387508181_341075171654117_4226956996842091500_n](https://github.com/StClareDevs2023/.github/assets/63950629/2e37a434-570a-4339-83ba-5e1fa128ce85)
+
+![382418231_1002149534329745_1567676982317585254_n](https://github.com/StClareDevs2023/.github/assets/63950629/7e5e330b-93c0-4295-ba6e-4a96e7f7effd)
 
