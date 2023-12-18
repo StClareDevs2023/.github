@@ -30,6 +30,7 @@ Recent Activities
 
 ![368558376_868845381406292_489512318540356647_n](https://github.com/StClareDevs2023/.github/assets/63950629/047485a9-a9cb-479d-8c72-8f2b37fe0ba2)
 
+![409419095_372186158621439_2597618677519541023_n](https://github.com/StClareDevs2023/.github/assets/63950629/6b74b63b-083a-4c76-a84e-a1dc6d013ab3)
 
 
 ![ezgif-4-9f3452fce2](https://github.com/StClareDevs2023/.github/assets/63950629/6da8ddc5-42f5-44b7-9b2d-bfb370e708e5)
